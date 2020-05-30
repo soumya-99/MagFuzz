@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body{
+  /* background-color: rgb(46, 46, 46); */
+  background-image: linear-gradient(to right, rgb(46, 46, 46), rgb(173, 173, 173));
+}
+.dropdown-menu .dropdown-item:hover{
+      background-color: #4285F4;
+      color: white;
+}
+.ico a img{
+  filter: grayscale(100%);
+}
+.ico a img:hover{
+  filter: grayscale(0%);
+}
+#supportus .container .icons a img{
+      width: 3em;
+      height: 3em;
+      filter: grayscale(100%);
+}
+#supportus .container .icons a:hover img{
+      transform: translateY(-12px);
+      filter: grayscale(0%);
+}
+/* @media only screen and (max-device-width: 768px) {
+  
+} */
