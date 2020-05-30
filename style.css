@@ -5,7 +5,6 @@
   padding: 0;
 }
 html, body{
-  /* background-color: rgb(46, 46, 46); */
   background-image: linear-gradient(to right, rgb(46, 46, 46), rgb(173, 173, 173));
   
   font-family: 'Ubuntu', sans-serif;
@@ -14,9 +13,6 @@ html, body{
       background-color: #4285F4;
       color: white;
 }
-/* .dropdown:hover>.dropdown-menu{
-  display: block;
-} */
 .ico a img{
   filter: grayscale(100%);
 }
