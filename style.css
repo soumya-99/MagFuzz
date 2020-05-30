@@ -14,9 +14,9 @@ html, body{
       background-color: #4285F4;
       color: white;
 }
-.dropdown:hover>.dropdown-menu{
+/* .dropdown:hover>.dropdown-menu{
   display: block;
-}
+} */
 .ico a img{
   filter: grayscale(100%);
 }
